@@ -2887,7 +2887,7 @@
         "@types/uuid": "^8.3.0",
         "@types/vscode": "1.57.0",
         "@types/xml2js": "^0.4.8",
-        "@typescript-eslint/eslint-plugin": "^4.28.4",
+        "@typescript-eslint/eslint-plugin": "^5.10.0",
         "@typescript-eslint/parser": "^4.28.4",
         "@vscode/codicons": "^0.0.21",
         "@vscode/test-electron": "^1.6.1",
